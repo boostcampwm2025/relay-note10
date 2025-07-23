@@ -178,3 +178,6 @@ Team: 05
  "부스트캠프 피어세션에서 팀원들과 NFS에 대해 얘기하다가 갑자기 나는 솔로를 주제로 얘기하는 우리 팀의 모습을 그려줘 '
 ``` 
 결과물:
+
+<img width="400" height="1024" alt="회의 중 NFS와 나는 SOLO" src="https://github.com/user-attachments/assets/7ef9b8a9-3da8-49fd-9fd4-f4431125f40e" />
+
