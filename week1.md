@@ -188,6 +188,19 @@ Team: 05
 
 <img width="400" height="1024" alt="회의 중 NFS와 나는 SOLO" src="https://github.com/user-attachments/assets/7ef9b8a9-3da8-49fd-9fd4-f4431125f40e" />
 
+#### 7.25 수행
+오늘은 AI에게 '나의 모습'을 그려보게 했습니다.
+
+프롬프트:
+```
+"금요일은 릴레이 프로젝트 하는 날이라 미션이 없어서 신난 내 모습을 그려줘"
+```
+
+결과물:
+
+<img width="400" height="1024" alt="ChatGPT Image 2025년 7월 25일 오후 01_55_05" src="https://github.com/user-attachments/assets/bc28640e-e8a9-4406-9906-bfb37fb6aea4" />
+
+
 ---
 
 ## J213 - ✅ AI 피드백을 활용하고 내 구현에 도움될 CS 지식 점검받기
